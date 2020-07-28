@@ -22,7 +22,7 @@ const App =()=> {
       }
       fetchItems();
       console.log(items)
-  },[isLoading])
+  },[])
 
 
 
